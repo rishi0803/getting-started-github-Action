@@ -39,3 +39,5 @@ jobs:
           echo Is there any build tool?
           mvn --version
           gradle --version
+          echo who is running this script?
+          whoami
